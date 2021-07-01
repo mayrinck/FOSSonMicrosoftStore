@@ -1,6 +1,6 @@
 # Free and Open-Source Software on Microsoft Store
 
-As we all know, one of the main problems with Microsoft Store is their lack of a self-maintained software repository, where they will check and upload new versions of certain apps regularly, pretty much how the things are with every linux distribution. Also, the extensive burocracy when it comes to publishing and app makes open-source projects a bit more far from this platform. I hope Windows 11 change that, but for Windows 10 and prior, things may remain the same.
+As we all know, one of the main problems with Microsoft Store is their lack of a self-maintained software repository, where they would verify and upload new versions of certain apps regularly, pretty much how the things are with every linux distribution. Also, the extensive burocracy when it comes to publishing and app makes open-source projects a lot more far from this platform. I hope Windows 11 change that, but for Windows 10 and prior, things may remain the same.
 
 So, thinking of that, I decided to convert my MS Developer account into a "Free and Open-Source Software Repository", where we can upload and keep updated some of the open-source apps we think that deserve to be there the same way they are displayed on their official sources... No "Gimp PRO" or stuff like that, just the vanilla software, properly credited and with all licenses, privacy policy and other information directly related to the original developers.
 
