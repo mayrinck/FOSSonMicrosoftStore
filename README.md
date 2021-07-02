@@ -7,7 +7,7 @@ So, thinking of that, I decided to convert my MS Developer account into a "Free 
 
 # How does the software is converted? Is it safe?
 
-The process uses the MSIX Packaging Tool, which is available on Microsoft Store too, It does a 100% unmodifiable and safe conversion of the software to become a Microsoft Store compatible package. Every converted software is downloaded from the most secure link available from the very creators, ensuring the safety of every application. Also, patch notes and other stuff come from the same source.
+The process uses the MSIX Packaging Tool, which is available on Microsoft Store too, It does a 100% unmodified and safe conversion of the software from the installer to become a Microsoft Store compatible package. Every converted software is downloaded from the most secure link available from the creators, ensuring the safety of every application. Also, patch notes and other stuff come from the same source.
 
 
 # How to contribute:
