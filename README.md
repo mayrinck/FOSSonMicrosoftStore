@@ -1,4 +1,4 @@
-# Free and Open-Source Software on Microsoft Store
+# Free and Open-Source Software Repository on Microsoft Store
 
 As we all know, one of the main problems with Microsoft Store is their lack of a self-maintained software repository, where they would verify and upload new versions of certain apps regularly, pretty much how the things are with every linux distribution. Also, the extensive burocracy when it comes to publishing and app makes open-source projects a lot more far from this platform. I hope Windows 11 change that, but for Windows 10 and prior, things may remain the same.
 
