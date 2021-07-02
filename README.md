@@ -28,4 +28,4 @@ You can contribute by alerting about updates of the apps, as well as recommendin
 
 - Antimicro (soon)
 - Audacity (soon)
-- [Kdenlive](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab)
+- [Kdenlive](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) *ver. 21.04.2*
