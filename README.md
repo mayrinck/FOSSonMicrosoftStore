@@ -26,4 +26,3 @@ You can contribute by alerting about updates of the apps, as well as recommendin
 # Softwares being maintained at the moment:
 
 - [Kdenlive](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab)
-- Antimicro (Classic)
