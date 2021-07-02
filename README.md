@@ -9,6 +9,7 @@ So, thinking of that, I decided to convert my MS Developer account into a "Free 
 
 The process uses the MSIX Packaging Tool, which is available on Microsoft Store too, It does a 100% unmodified and safe conversion of the software from the installer to become a Microsoft Store compatible package. Every converted software is downloaded from the most secure link available from the creators, ensuring the safety of every application. Also, patch notes and other stuff come from the same source.
 
+Bugs and other issues shouldn't be pointed here, as the conversion don't mess with the source code of the original software. If you have any issues with a software available here, we strongly recommend that you go to the developer's website and try to get some help there.
 
 # How to contribute:
 
