@@ -1,4 +1,4 @@
-BASIC INFORMATION
+BASIC INFORMATION (EN)
 =======================================
 
 **Software Name: Kdenlive**
