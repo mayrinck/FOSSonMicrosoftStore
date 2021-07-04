@@ -1,4 +1,3 @@
-=======================================
 #BASIC INFORMATION
 =======================================
 
@@ -31,10 +30,7 @@
 #SOFTWARE CATEGORY
 =======================================
 
-| Category       | Subcategory |
-| -------------- | ----------- |
-| -------------- | ----------- |
-
+‪Multimedia design > Photo & video production‬
 
 =======================================
 #SOFTWARE CAPABILITIES (ONE PER LINE)
