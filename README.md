@@ -20,7 +20,7 @@ You can contribute by alerting about updates of the apps, as well as recommendin
 
 1. Only suggest softwares that are working on Windows 10 without any tweaks and are not already available on the store through official developer accounts.
 
-2. The software must be sent as a TOPIC on the discussions, undet the **Software Request** Label and Discussion Branch, following the structure of the others already available. You must point every details that are requested.
+2. The software must be sent as a TOPIC on the discussions, undet the **[Requests](https://github.com/mayrinck/FOSSonMicrosoftStore/discussions/categories/requests)** Label and Discussion Topic. You must point every details that are requested in the fixed topic.
 
 3. You can also send a pull-request to add translations and other useful information for any software that is already available.
 
