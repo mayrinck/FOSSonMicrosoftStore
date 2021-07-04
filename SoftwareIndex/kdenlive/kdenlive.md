@@ -1,5 +1,5 @@
 BASIC INFORMATION
-
+=======================================
 
 **Software Name: Kdenlive**
 
