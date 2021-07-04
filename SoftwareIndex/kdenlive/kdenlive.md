@@ -67,4 +67,4 @@ SOFTWARE RESOURCES
 | DirectX Ver.   | DX11           | DX12 > DX11   |
 | Video Memory   | 1GB           | 4GB           |
 | Processor      | Intel Celeron 847 @ 1,1 GHz or Equivalent | A Modern Quad-Core Processor @ 2.13GHz minimum |
-| Video Card     | Intel HD Graphics 550 | Any GDDR3 or above card w/4GB RAM |
+| Video Card     | Intel HD Graphics 5500 | Any GDDR3 or above card w/4GB RAM |
