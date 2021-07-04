@@ -34,3 +34,4 @@ You can contribute by alerting about updates of the apps, as well as recommendin
 - Antimicro *ver. 2.23 - Under Certification*
 - Audacity (soon)
 - [Kdenlive](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) *ver. 21.04.2*
+- Mozilla Firefox *ver. 89.0.2 - Under Certification*
