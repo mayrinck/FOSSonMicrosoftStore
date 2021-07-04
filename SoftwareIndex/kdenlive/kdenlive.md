@@ -2,7 +2,7 @@ BASIC INFORMATION (EN)
 =======================================
 
 <!-- THE VERY NAME OF THE APP -->
-**Software Name: Antimicro**
+**Software Name: Kdenlive**
 
 <!-- NAMES THAT THE SOFTWARE MAY BE CALLED, LIKE ABBREVIATIONS AND POSSIBLE TAGS -->
 **Alternative Names** (separated by comma): Kdenlive Video Editor, Kdenlive Free Video Editor, Kdenlive for Windows, KDE Video Editor, Kdenlive UWP, Kdenlive Video, Kdenlive Editor, Kdenlive FOSS
@@ -64,7 +64,7 @@ SOFTWARE RESOURCES
 <!-- THESE ARE THE REQUIREMENTS TO RUN THE SOFTWARE PROPERLY -->
 
 | Resource       | Min. Hardware | Rec. Hardware |
-| -------------- | ------------- | ------------- | <!-- HERE, YOU MAY MARK ONLY THE ONES THAT ARE NEEDED, LEAVE BLANK THE REST -->
+| -------------- | ------------- | ------------- |
 | Touchscreen    |               |               |
 | Keyboard       | ✔️           | ✔️           |
 | Mouse/Trackpad | ✔️           | ✔️           |
@@ -77,7 +77,7 @@ SOFTWARE RESOURCES
 | Xbox Controller/Gamepad |               |               |
 | Win. Mixed Reality Motion Controllers |               |               |
 | Win. Mixed Reality Immersive Headset |               |               |
-| Memory         | 2GB           | 4GB           | <!-- FROM HERE, YOU MUST TYPE WHAT IS NEEDED -->
+| Memory         | 2GB           | 4GB           |
 | DirectX Ver.   | DX11           | DX12 > DX11   |
 | Video Memory   | 1GB           | 4GB           |
 | Processor      | Intel Celeron 847 @ 1,1 GHz or Equivalent | A Modern Quad-Core Processor @ 2.13GHz minimum |
