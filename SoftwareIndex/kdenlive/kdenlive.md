@@ -1,4 +1,4 @@
-#BASIC INFORMATION
+BASIC INFORMATION
 =======================================
 
 **Software Name: Kdenlive**
@@ -27,13 +27,13 @@
 
 
 =======================================
-#SOFTWARE CATEGORY
+SOFTWARE CATEGORY
 =======================================
 
 ‪Multimedia design > Photo & video production‬
 
 =======================================
-#SOFTWARE CAPABILITIES (ONE PER LINE)
+SOFTWARE CAPABILITIES (ONE PER LINE)
 =======================================
 
 - Multi-track video editing.
@@ -48,7 +48,7 @@
 
 
 =======================================
-#SOFTWARE RESOURCES
+SOFTWARE RESOURCES
 =======================================
 
 | Resource       | Min. Hardware | Rec. Hardware |
