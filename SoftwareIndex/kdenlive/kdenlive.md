@@ -1,5 +1,5 @@
 BASIC INFORMATION
-=======================================
+
 
 **Software Name: Kdenlive**
 
@@ -26,13 +26,12 @@ BASIC INFORMATION
 **Developed By:** Jean-Baptiste Mardelle, Vincent Pinon, Nicolas Carion, Simon A. Eugster (Granjow).
 
 
-=======================================
 SOFTWARE CATEGORY
 =======================================
 
 ‪Multimedia design > Photo & video production‬
 
-=======================================
+
 SOFTWARE CAPABILITIES (ONE PER LINE)
 =======================================
 
@@ -47,26 +46,25 @@ SOFTWARE CAPABILITIES (ONE PER LINE)
 - Extensible with online resources.
 
 
-=======================================
 SOFTWARE RESOURCES
 =======================================
 
 | Resource       | Min. Hardware | Rec. Hardware |
 | -------------- | ------------- | ------------- |
-| Touchscreen    | [ ]           | [ ]           |
-| Keyboard       | [x]           | [x]           |
-| Mouse/Trackpad | [x]           | [x]           |
-| Camera         | [ ]           | [ ]           |
-| NFC HCE        | [ ]           | [ ]           |
-| NFC Proximity  | [ ]           | [ ]           |
-| Bluetooth LE   | [ ]           | [ ]           |
-| Telephony      | [ ]           | [ ]           |
-| Microphone     | [ ]           | [ ]           |
-| Xbox Controller/Gamepad | [ ]           | [ ]           |
-| Win. Mixed Reality Motion Controllers | [ ]           | [ ]           |
-| Win. Mixed Reality Immersive Headset | [ ]           | [ ]           |
+| Touchscreen    |               |               |
+| Keyboard       | ✔️           | ✔️           |
+| Mouse/Trackpad | ✔️           | ✔️           |
+| Camera         |               |               |
+| NFC HCE        |               |               |
+| NFC Proximity  |               |               |
+| Bluetooth LE   |               |               |
+| Telephony      |               |               |
+| Microphone     |               |               |
+| Xbox Controller/Gamepad |               |               |
+| Win. Mixed Reality Motion Controllers |               |               |
+| Win. Mixed Reality Immersive Headset |               |               |
 | Memory         | 2GB           | 4GB           |
-| DirectX Ver.   | DX9           | DX12 > DX11   |
+| DirectX Ver.   | DX11           | DX12 > DX11   |
 | Video Memory   | 1GB           | 4GB           |
 | Processor      | Intel Celeron 847 @ 1,1 GHz or Equivalent | A Modern Quad-Core Processor @ 2.13GHz minimum |
 | Video Card     | Intel HD Graphics 550 | Any GDDR3 or above card w/4GB RAM |
