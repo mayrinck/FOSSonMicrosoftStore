@@ -16,22 +16,24 @@ Bugs and other issues shouldn't be pointed here, as the conversion don't mess wi
 
 # How to contribute:
 
-You can contribute by alerting about updates of the apps, as well as recommending new softwares to be added to the repository. Check out the instructions below to make sure you will do everything correctly:
+You can contribute by alerting about updates of the apps, as well as translations and recommending new softwares to be added to the repository. Check out the instructions below to make sure you will do everything correctly:
 
 1. Only suggest softwares that are working on Windows 10 without any tweaks and are not already available on the store through official developer accounts.
 
-2. The software must be sent as a TOPIC on the discussions, undet the **[Requests](https://github.com/mayrinck/FOSSonMicrosoftStore/discussions/categories/requests)** Label and Discussion Topic. You must point every details that are requested in the fixed topic.
+2. The software must be sent as a TOPIC on the discussions, under the **[Requests](https://github.com/mayrinck/FOSSonMicrosoftStore/discussions/categories/requests)** Label and Discussion Topic. You must point every details that are requested in the fixed topic.
 
 3. You can also send a pull-request to add translations and other useful information for any software that is already available.
 
-4. There are some [guidelines](https://docs.microsoft.com/en-us/windows/uwp/publish/store-policies) to upload softwares to Microsoft Store. At this point, older browsers and emulators are not allowed.
+4. There are some [guidelines](https://docs.microsoft.com/en-us/windows/uwp/publish/store-policies) to upload softwares to Microsoft Store. At this point, older browsers and emulators are not allowed. Further instructions are also inside the link.
 
-5. We will remove any software from the store as soon as a software is sent to the Microsoft Store from the developer account itself OR by request of the developer.
+5. We will remove any software from the store as soon as a software is sent to the Microsoft Store from the original developer's account OR by request of the developer.
 
 
 # Softwares being maintained at the moment:
 
-- Antimicro  - *ver. 2.23 - Under Certification*
-- Audacity (soon)
-- [Kdenlive](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab)  - *ver. 21.04.2*
-- Mozilla Firefox  - *ver. 89.0.2 - Under Certification*
+| Software Name         | Current Uploaded Version | Store Page |
+| --------------------- | ------------------------ | ---------- |
+| Antimicro             | 2.23                     | *Under Certification* |
+| Audacity              | *Soon*                   | *Soon* |
+| Kdenlive              | 21.04.2                  | [Download](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) |
+| Mozilla Firefox       | 89.0.2                   | *Under Certification* |
