@@ -36,4 +36,5 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Antimicro             | 2.23                     | *Needs Privacy Policy Link* |
 | Audacity              | *Soon*                   | *Soon* |
 | Kdenlive              | 21.04.2                  | [Download](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) |
+| LibreOffice           | *Soon*                   | *Under Conversion* |
 | Mozilla Firefox       | 89.0.2                   | *Under Certification* |
