@@ -31,11 +31,16 @@ You can contribute by alerting about updates of the apps, as well as translation
 
 # Softwares being maintained at the moment:
 
+- ***Under Evaluation***: Means that we are looking for the info's needed to upload and convert an app, as well as checking if it's not already available on Microsoft Store.
+- ***Under Conversion***: Means we are converting the software to the MS Store format and creating the artworks needed for the package to look good on the store.
+- ***Under Certification***: Means the software was uploaded and it's page is also set-up, but Microsoft is verifying if everything is really ok with the app and the information we gave them.
+
 | Software Name         | Current Uploaded Version | Store Page |
 | --------------------- | ------------------------ | ---------- |
-| Antimicro             | 2.23                     | *Needs Privacy Policy Link* |
+| Antimicro             | 2.23                     | *Under Certification (2)* |
 | Audacity              | 3.0.2                    | *Under Certification* |
 | Kdenlive              | 21.04.2                  | [Download](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) |
 | LibreOffice           | *Soon*                   | *Under Conversion* |
 | Mozilla Firefox       | 89.0.2                   | *Under Certification* |
+| OpenOffice            | *Soon*                   | *Under Evaluation* |
 | OpenShot Video Editor | *Soon*                   | *Under Conversion* |
