@@ -42,12 +42,12 @@ You can contribute by alerting about updates of the apps, as well as translation
 </sub>
 <br>
 
-| Software Name         | Current Uploaded Version | Store Page |
-| --------------------- | ------------------------ | ---------- |
-| Antimicro             | 2.23                     | *Under Certification (2)* |
-| Audacity              | 3.0.2                    | *Under Certification* |
-| Kdenlive              | 21.04.2                  | [Download](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) |
-| LibreOffice           | *Soon*                   | *Under Conversion* |
-| Mozilla Firefox       | 89.0.2                   | *Under Certification* |
-| OpenOffice            | *Soon*                   | *Under Evaluation* |
-| OpenShot Video Editor | *Soon*                   | *Under Conversion* |
+| Software Name         | Current Uploaded Version | Architecture | Store Page |
+| --------------------- | ------------------------ | ------------ | ---------- |
+| Antimicro             | 2.23                     | x64 | *Under Certification (2)* |
+| Audacity              | 3.0.2                    | x64 | *Under Certification* |
+| Kdenlive              | 21.04.2                  | x64 | [Download](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) |
+| LibreOffice           | *Soon*                   | x64 | *Under Conversion* |
+| Mozilla Firefox       | 89.0.2                   | x64 | *Under Certification* |
+| OpenOffice            | *Soon*                   | x64 | *Under Evaluation* |
+| OpenShot Video Editor | *Soon*                   | x64 | *Under Conversion* |
