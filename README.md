@@ -40,6 +40,7 @@ You can contribute by alerting about updates of the apps, as well as translation
     - <b>Under Certification</b>: Means the software was uploaded and it's page is also set-up, but Microsoft is verifying if everything is really ok with the app and the information we gave them.
   </sup>
 </sub>
+<br>
 
 | Software Name         | Current Uploaded Version | Store Page |
 | --------------------- | ------------------------ | ---------- |
