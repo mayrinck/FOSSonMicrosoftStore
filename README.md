@@ -38,6 +38,7 @@ You can contribute by alerting about updates of the apps, as well as translation
     - <b>Under Conversion</b>: Means we are converting the software to the MS Store format and creating the artworks needed for the package to look good on the store.
     <br>
     - <b>Under Certification</b>: Means the software was uploaded and it's page is also set-up, but Microsoft is verifying if everything is really ok with the app and the information we gave them.
+    - <b>Package Broken</b>: Means the software was uploaded but did not pass Microsoft's testing steps. Might require further investigation.
   </sup>
 </sub>
 <br>
@@ -45,7 +46,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Software Name         | Maintained Version | Architecture | Store Page       |
 | --------------------- | ------------------ | ------------ | ---------------- |
 | Antimicro             | **2.23**           | x64          | *Under Certification (2)* |
-| Audacity              | **3.0.2**          | x64          | *Under Certification* |
+| Audacity              | **3.0.2**          | x64          | *Package Broken* |
 | Kdenlive              | **21.04.2**        | x64          | [Download](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) |
 | LibreOffice           | *Soon*             | x64          | *Under Conversion* |
 | Mozilla Firefox       | **89.0.2**         | x64          | *Under Certification* |
