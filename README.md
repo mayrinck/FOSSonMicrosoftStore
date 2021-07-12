@@ -62,3 +62,4 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Software Name         | Maintained Version | Architecture | Store Page       |
 | --------------------- | ------------------ | ------------ | ---------------- |
 | Inkscape              | **1.1**            | x86/x64      | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
+| Krita                 | **4.4**            | x86/x64      | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
