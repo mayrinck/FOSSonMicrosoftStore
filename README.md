@@ -50,6 +50,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Audacity              | **3.0.2**          | x64          | *Package Broken* |
 | Cinelerra             | *Soon*             | x64          | *Under Evaluation* |
 | GIMP                  | **2.10.24**        | x64          | [Download](https://www.microsoft.com/store/apps/9NJP9724LT35) |
+| Inkscape              | **1.1**            | x86/x64      | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
 | Kdenlive              | **21.04.2**        | x64          | [Download](https://www.microsoft.com/store/apps/9P07GFP9P554) |
 | LibreOffice           | *Soon*             | x64          | *Under Conversion* |
 | Mozilla Thunderbird   | *Soon*             | ---          | *Under Evaluation* |
