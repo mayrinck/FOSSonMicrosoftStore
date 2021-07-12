@@ -66,4 +66,4 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Inkscape              | **1.1**            | x86/x64       | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
 | Krita                 | **4.4**            | x86/x64       | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
 | Notepads              | **1.4.5**          | x86/x64/ARM64 | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
-| VLC Media Player      | **4.4**            | x86/x64/ARM   | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
+| VLC Media Player      | **3.2.1**          | x86/x64/ARM   | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
