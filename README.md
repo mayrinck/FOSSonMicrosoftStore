@@ -40,6 +40,8 @@ You can contribute by alerting about updates of the apps, as well as translation
     - <b>Under Certification</b>: Means the software was uploaded and it's page is also set-up, but Microsoft is verifying if everything is really ok with the app and the information we gave them.
     <br>
     - <b>Package Broken</b>: Means the software was uploaded but did not pass Microsoft's testing steps. Might require further investigation.
+    <br>
+    - <b>Can't be Converted</b>: Means the software cannot be converted without causing critical problems.
   </sup>
 </sub>
 <br>
