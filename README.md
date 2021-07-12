@@ -49,8 +49,8 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Antimicro             | **2.23**           | x64          | *Needs Privacy Policy Link/File* |
 | Audacity              | **3.0.2**          | x64          | *Package Broken* |
 | Cinelerra             | *Soon*             | x64          | *Under Evaluation* |
-| GIMP                  | **2.10.24**        | x64          | *Under Certification* |
-| Kdenlive              | **21.04.2**        | x64          | [Download](https://www.microsoft.com/en-us/p/kdenlive/9p07gfp9p554?activetab=pivot:overviewtab) |
+| GIMP                  | **2.10.24**        | x64          | [Download](https://www.microsoft.com/store/apps/9NJP9724LT35) |
+| Kdenlive              | **21.04.2**        | x64          | [Download](https://www.microsoft.com/store/apps/9P07GFP9P554) |
 | LibreOffice           | *Soon*             | x64          | *Under Conversion* |
 | Mozilla Thunderbird   | *Soon*             | ---          | *Under Evaluation* |
 | OpenOffice            | *Soon*             | ---          | *Under Evaluation* |
