@@ -46,17 +46,18 @@ You can contribute by alerting about updates of the apps, as well as translation
 </sub>
 <br>
 
-| Software Name         | Maintained Version | Architecture | Store Page       |
-| --------------------- | ------------------ | ------------ | ---------------- |
-| Antimicro             | **2.23**           | x64          | *Needs Privacy Policy Link/File* |
-| Audacity              | **3.0.2**          | N/A          | ***Can't be Converted*** |
-| Avidemux              | **2.7.9**          | N/A          | ***Can't be Converted*** |
-| Cinelerra             | *Soon*             | x64          | *Under Evaluation* |
-| GIMP                  | **2.10.24**        | x64          | [Download](https://www.microsoft.com/store/apps/9NJP9724LT35) |
-| Kdenlive              | **21.04.2**        | x64          | [Download](https://www.microsoft.com/store/apps/9P07GFP9P554) |
-| LibreOffice           | *Soon*             | x64          | *Under Conversion* |
-| OpenOffice            | *Soon*             | ---          | *Under Evaluation* |
-| OpenShot Video Editor | **2.5.1**          | N/A          | ***Can't be Converted*** |
+| Software Name         | Maintained Version | Architecture  | Store Page       |
+| --------------------- | ------------------ | ------------- | ---------------- |
+| Antimicro             | **2.23**           | x64           | *Needs Privacy Policy Link/File* |
+| Audacity              | **3.0.2**          | N/A           | ***Can't be Converted*** |
+| Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
+| Cinelerra             | *Soon*             | x64           | *Under Evaluation* |
+| Gedit                 | *Soon*             | x64           | *Under Evaluation* |
+| GIMP                  | **2.10.24**        | x64           | [Download](https://www.microsoft.com/store/apps/9NJP9724LT35) |
+| Kdenlive              | **21.04.2**        | x64           | [Download](https://www.microsoft.com/store/apps/9P07GFP9P554) |
+| LibreOffice           | *Soon*             | x64           | *Under Conversion* |
+| OpenOffice            | *Soon*             | ---           | *Under Evaluation* |
+| OpenShot Video Editor | **2.5.1**          | N/A           | ***Can't be Converted*** |
 
 
 # Softwares officially supported by developers:
@@ -64,6 +65,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Software Name         | Maintained Version | Architecture  | Store Page       |
 | --------------------- | ------------------ | ------------- | ---------------- |
 | Blender               | **2.9**            | x64           | [Official Download](https://www.microsoft.com/store/apps/9pp3c07gtvrh) |
+| Gedit                 | *unavailable...*   | N/A           | [Official Page](https://www.microsoft.com/store/apps/9pl1j21xf0pt) |
 | Inkscape              | **1.1**            | x86/x64       | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
 | Krita                 | **4.4**            | x64           | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
 | Notepads              | **1.4.5**          | x86/x64/ARM64 | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
