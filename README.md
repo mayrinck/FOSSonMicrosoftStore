@@ -52,7 +52,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Audacity              | **3.0.2**          | N/A           | ***Can't be Converted*** |
 | Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
 | Cinelerra             | *Soon*             | x64           | *Under Evaluation* |
-| Gedit                 | *Soon*             | x64           | *Under Evaluation* |
+| Gedit                 | **3.20.1**         | x64           | *Under Certification* |
 | GIMP                  | **2.10.24**        | x64           | [Download](https://www.microsoft.com/store/apps/9NJP9724LT35) |
 | Kdenlive              | **21.04.2**        | x64           | [Download](https://www.microsoft.com/store/apps/9P07GFP9P554) |
 | LibreOffice           | *Soon*             | x64           | *Under Conversion* |
