@@ -51,10 +51,9 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Antimicro             | **2.23**           | x64           | *Needs Privacy Policy Link/File* |
 | Audacity              | **3.0.2**          | N/A           | ***Can't be Converted*** |
 | Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
-| Cinelerra             | *Soon*             | x64           | *Under Evaluation* |
+| Cinelerra             | *Soon*             | x64           | ***Installer not found*** |
 | Gedit                 | **3.20.1**         | x64           | ***Can't be Converted*** |
 | GIMP                  | **2.10.24**        | x64           | [Download](https://www.microsoft.com/store/apps/9NJP9724LT35) |
-| Kdenlive              | **21.04.2**        | x64           | [Download](https://www.microsoft.com/store/apps/9P07GFP9P554) |
 | LibreOffice           | *Soon*             | x64           | *Under Conversion* |
 | OpenOffice            | *Soon*             | ---           | *Under Evaluation* |
 | OpenShot Video Editor | **2.5.1**          | N/A           | ***Can't be Converted*** |
@@ -67,6 +66,9 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Blender               | Yes     | [Official Download](https://www.microsoft.com/store/apps/9pp3c07gtvrh) |
 | Gedit                 | No      | [Official Page](https://www.microsoft.com/store/apps/9pl1j21xf0pt) |
 | Inkscape              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
+| Kate                  | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nwmw7bb59hw) |
+| KDE Connect           | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n93mrmsxbf0) |
 | Krita                 | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
+| Kdenlive              | Soon    | Soon (probably December) |
 | Notepads              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
 | VLC Media Player      | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
