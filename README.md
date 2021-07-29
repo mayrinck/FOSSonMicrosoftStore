@@ -48,7 +48,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 
 | Software Name         | Maintained Version | Architecture  | Status / Download |
 | --------------------- | ------------------ | ------------- | ---------------- |
-| Antimicro             | **2.23**           | x64           | *Needs Privacy Policy Link/File* |
+| Antimicro             | **2.23**           | x64           | *Under Certification* |
 | Audacity              | **3.0.2**          | N/A           | ***Can't be Converted*** |
 | Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
 | Cinelerra             | *Soon*             | x64           | ***Installer not found*** |
