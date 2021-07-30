@@ -24,7 +24,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 
 3. You can also send a pull-request to add translations and other useful information for any software that is already available.
 
-4. There are some [guidelines](https://docs.microsoft.com/en-us/windows/uwp/publish/store-policies) to upload softwares to Microsoft Store. At this point, older browsers and emulators are not allowed. Further instructions are also inside the link.
+4. There are some [guidelines](https://docs.microsoft.com/en-us/windows/uwp/publish/store-policies) to upload softwares to Microsoft Store. At this point, browsers and emulators are not allowed. Further instructions are also inside the link.
 
 5. We will remove any software from the store as soon as a software is sent to the Microsoft Store from the original developer's account OR by request of the developer.
 
