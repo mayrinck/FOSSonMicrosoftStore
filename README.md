@@ -48,7 +48,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 
 | Software Name         | Maintained Version | Architecture  | Status / Download |
 | --------------------- | ------------------ | ------------- | ---------------- |
-| Antimicro             | **2.23**           | x64           | *Under Certification* |
+| Antimicro             | **2.23**           | x64           | [Download](https://www.microsoft.com/store/apps/9n1fcfq6p5lw) |
 | Audacity              | **3.0.2**          | N/A           | ***Can't be Converted*** |
 | Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
 | Cinelerra             | *Soon*             | x64           | ***Installer not found*** |
