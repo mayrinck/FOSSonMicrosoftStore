@@ -72,6 +72,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | KDE Connect           | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n93mrmsxbf0) |
 | Krita                 | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
 | Kdenlive              | Soon    | Soon (probably December) |
+| Mozilla Firefox       | Soon    | [Official Page](https://www.microsoft.com/store/apps/9nzvdkpmr9rd) |
 | Notepads              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
 | Shotcut               | Yes     | [Official Download](https://www.microsoft.com/store/apps/9PLNFFL3P6LR) |
 | VLC Media Player      | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
