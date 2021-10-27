@@ -1,0 +1,1 @@
+can be found here: https://supertuxkart.net/Privacy
