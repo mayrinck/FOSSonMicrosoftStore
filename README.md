@@ -61,7 +61,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Super Tux Kart        | **1.3**            | x64           | *Under Certification* |
 
 
-# Open-Source Softwares officially posted/supported by developers:
+# Open-Source Softwares officially posted/supported by their original developers:
 
 | Software Name         | Active? | Store Page       |
 | --------------------- | ------- | ---------------- |
