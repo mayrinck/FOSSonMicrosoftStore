@@ -49,8 +49,8 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Software Name         | Maintained Version | Architecture  | Status / Download |
 | --------------------- | ------------------ | ------------- | ---------------- |
 | Antimicro             | **2.23**           | x64           | [Download](https://www.microsoft.com/store/apps/9n1fcfq6p5lw) |
-| Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
-| Cinelerra             | *N/A*              | N/A           | ***Installer not found*** |
+| Avidemux              | ---                | N/A           | ***Can't be Converted*** |
+| Cinelerra             | N/A                | N/A           | ***Installer not found*** |
 | DIA - Diagram Editor  | **0.97.2**         | x64           | [Download](https://www.microsoft.com/store/apps/9npvgp9l96jj) |
 | Gedit                 | ---                | x64           | ***Can't be Converted*** |
 | GIMP                  | ---                | x64           | ***Can't be Converted*** |
