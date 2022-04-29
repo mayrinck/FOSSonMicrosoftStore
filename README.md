@@ -49,7 +49,6 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Software Name         | Maintained Version | Architecture  | Status / Download |
 | --------------------- | ------------------ | ------------- | ---------------- |
 | Antimicro             | **2.23**           | x64           | [Download](https://www.microsoft.com/store/apps/9n1fcfq6p5lw) |
-| Audacity              | **3.0.2**          | N/A           | ***Can't be Converted*** |
 | Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
 | Cinelerra             | *N/A*              | N/A           | ***Installer not found*** |
 | DIA - Diagram Editor  | **0.97.2**         | x64           | [Download](https://www.microsoft.com/store/apps/9npvgp9l96jj) |
@@ -66,13 +65,14 @@ You can contribute by alerting about updates of the apps, as well as translation
 
 | Software Name         | Active? | Store Page       |
 | --------------------- | ------- | ---------------- |
+| Audacity              | Yes     | [Official Download](https://apps.microsoft.com/store/detail/audacity/XP8K0J757HHRDW) |
 | Blender               | Yes     | [Official Download](https://www.microsoft.com/store/apps/9pp3c07gtvrh) |
 | Gedit                 | No      | [Official Page](https://www.microsoft.com/store/apps/9pl1j21xf0pt) |
 | Inkscape              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
 | Kate                  | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nwmw7bb59hw) |
 | KDE Connect           | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n93mrmsxbf0) |
 | Krita                 | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
-| Kdenlive              | Soon    | Soon (probably December) |
+| Kdenlive              | Soon    | Soon |
 | Mozilla Firefox       | Soon    | [Official Page](https://www.microsoft.com/store/apps/9nzvdkpmr9rd) |
 | Notepads              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
 | Shotcut               | Yes     | [Official Download](https://www.microsoft.com/store/apps/9PLNFFL3P6LR) |
