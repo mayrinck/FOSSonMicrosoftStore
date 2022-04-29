@@ -52,13 +52,13 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Avidemux              | **2.7.9**          | N/A           | ***Can't be Converted*** |
 | Cinelerra             | *N/A*              | N/A           | ***Installer not found*** |
 | DIA - Diagram Editor  | **0.97.2**         | x64           | [Download](https://www.microsoft.com/store/apps/9npvgp9l96jj) |
-| Gedit                 | **3.20.1**         | x64           | ***Can't be Converted*** |
-| GIMP                  | **2.10.24**        | x64           | ***Can't be Converted*** |
-| HandBrake             | **1.4.0**          | x64           | *Under Evaluation* |
-| LibreOffice           | *Soon*             | x64           | *Under Evaluation* |
-| OpenOffice            | *Soon*             | ---           | *Under Evaluation* |
-| OpenShot Video Editor | **2.5.1**          | N/A           | ***Can't be Converted*** |
-| Super Tux Kart        | **1.3**            | x64           | *Under Certification* |
+| Gedit                 | ---                | x64           | ***Can't be Converted*** |
+| GIMP                  | ---                | x64           | ***Can't be Converted*** |
+| HandBrake             | ---                | x64           | ***Can't be Converted*** |
+| LibreOffice           | ---                | x64           | ***Can't be Converted*** |
+| OpenOffice            | ---                | x86           | ***Can't be Converted*** |
+| OpenShot Video Editor | ---                | N/A           | ***Can't be Converted*** |
+| Super Tux Kart        | ---                | x64           | ***Can't be Converted*** |
 
 
 # Open-Source Softwares officially posted/supported by their original developers:
