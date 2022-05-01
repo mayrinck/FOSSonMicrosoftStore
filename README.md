@@ -75,5 +75,6 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Kdenlive              | Soon    | Soon |
 | Mozilla Firefox       | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nzvdkpmr9rd) |
 | Notepads              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
+| PuTTY                 | Yes     | [Official Download](https://apps.microsoft.com/store/detail/putty/XPFNZKSKLBP7RJ) |
 | Shotcut               | Yes     | [Official Download](https://www.microsoft.com/store/apps/9PLNFFL3P6LR) |
 | VLC Media Player      | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
