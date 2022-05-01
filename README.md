@@ -79,7 +79,6 @@ You can contribute by alerting about updates of the apps, as well as translation
 | [ShotCut](https://shotcut.org/)                 | Yes     | USD$9.79    | [Official Download](https://www.microsoft.com/store/apps/9PLNFFL3P6LR) |
 | VLC Media Player                                | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
 <br>
-<br>
 <sub>
   <sup>
     Some of the software available in this list is paid when acquired through Microsoft Store, but they can be acquired for free on their official websites (click the name).
