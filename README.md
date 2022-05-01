@@ -63,18 +63,25 @@ You can contribute by alerting about updates of the apps, as well as translation
 
 # Open-Source Softwares officially posted/supported by their original developers:
 
-| Software Name         | Active? | Store Page       |
-| --------------------- | ------- | ---------------- |
-| Audacity              | Yes     | [Official Download](https://apps.microsoft.com/store/detail/audacity/XP8K0J757HHRDW) |
-| Blender               | Yes     | [Official Download](https://www.microsoft.com/store/apps/9pp3c07gtvrh) |
-| Gedit                 | No      | [Official Page](https://www.microsoft.com/store/apps/9pl1j21xf0pt) |
-| Inkscape              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
-| Kate                  | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nwmw7bb59hw) |
-| KDE Connect           | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n93mrmsxbf0) |
-| Krita                 | Yes     | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
-| Kdenlive              | Soon    | Soon |
-| Mozilla Firefox       | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nzvdkpmr9rd) |
-| Notepads              | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
-| PuTTY                 | Yes     | [Official Download](https://apps.microsoft.com/store/detail/putty/XPFNZKSKLBP7RJ) |
-| Shotcut               | Yes     | [Official Download](https://www.microsoft.com/store/apps/9PLNFFL3P6LR) |
-| VLC Media Player      | Yes     | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
+| Software Name                                   | Active? | Price       | Store Page       |
+| ----------------------------------------------- | ------- | ----------- | ---------------- |
+| Audacity                                        | Yes     | FREE        | [Official Download](https://apps.microsoft.com/store/detail/audacity/XP8K0J757HHRDW) |
+| Blender                                         | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9pp3c07gtvrh) |
+| Gedit                                           | No      | N/A         | [Official Page](https://www.microsoft.com/store/apps/9pl1j21xf0pt) |
+| Inkscape                                        | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
+| Kate                                            | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9nwmw7bb59hw) |
+| KDE Connect                                     | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9n93mrmsxbf0) |
+| [Krita](https://krita.org/)                     | Yes     | USD$14.99   | [Official Download](https://www.microsoft.com/store/apps/9n6x57zgrw96) |
+| Kdenlive                                        | Soon    | N/A         | Soon |
+| Mozilla Firefox                                 | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9nzvdkpmr9rd) |
+| Notepads                                        | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9nhl4nsc67wm) |
+| PuTTY                                           | Yes     | FREE        | [Official Download](https://apps.microsoft.com/store/detail/putty/XPFNZKSKLBP7RJ) |
+| [ShotCut](https://shotcut.org/)                 | Yes     | USD$9.79    | [Official Download](https://www.microsoft.com/store/apps/9PLNFFL3P6LR) |
+| VLC Media Player                                | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9nblggh4vvnh) |
+<br>
+<br>
+<sub>
+  <sup>
+    Some of the software available in this list is paid when acquired through Microsoft Store, but they can be acquired for free on their official websites (click the name).
+  </sup>
+</sub>
