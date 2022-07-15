@@ -66,7 +66,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | ----------------------------------------------- | ------- | ----------- | ---------------- |
 | Audacity                                        | Yes     | FREE        | [Official Download](https://apps.microsoft.com/store/detail/audacity/XP8K0J757HHRDW) |
 | Blender                                         | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9pp3c07gtvrh) |
-| GIMP                                            | Yes     | N/A         | [Official Download](https://www.microsoft.com/store/apps/XPDM27W10192Q0) |
+| GIMP                                            | Yes     | FREE        | [Official Download](https://apps.microsoft.com/store/detail/gimp/XPDM27W10192Q0) |
 | Gedit                                           | No      | N/A         | [Official Page](https://www.microsoft.com/store/apps/9pl1j21xf0pt) |
 | Inkscape                                        | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
 | Kate                                            | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9nwmw7bb59hw) |
