@@ -53,7 +53,6 @@ You can contribute by alerting about updates of the apps, as well as translation
 | Cinelerra             | N/A                | N/A           | ***Installer not found*** |
 | DIA - Diagram Editor  | **0.97.2**         | x64           | [Download](https://www.microsoft.com/store/apps/9npvgp9l96jj) |
 | Gedit                 | ---                | x64           | ***Can't be Converted*** |
-| GIMP                  | ---                | x64           | ***Can't be Converted*** |
 | HandBrake             | ---                | x64           | ***Can't be Converted*** |
 | LibreOffice           | ---                | x64           | ***Can't be Converted*** |
 | OpenOffice            | ---                | x86           | ***Can't be Converted*** |
@@ -67,6 +66,7 @@ You can contribute by alerting about updates of the apps, as well as translation
 | ----------------------------------------------- | ------- | ----------- | ---------------- |
 | Audacity                                        | Yes     | FREE        | [Official Download](https://apps.microsoft.com/store/detail/audacity/XP8K0J757HHRDW) |
 | Blender                                         | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9pp3c07gtvrh) |
+| GIMP                                            | Yes     | N/A         | [Official Download](ms-windows-store://pdp/?productid=XPDM27W10192Q0) |
 | Gedit                                           | No      | N/A         | [Official Page](https://www.microsoft.com/store/apps/9pl1j21xf0pt) |
 | Inkscape                                        | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9pd9bhglfc7h) |
 | Kate                                            | Yes     | FREE        | [Official Download](https://www.microsoft.com/store/apps/9nwmw7bb59hw) |
