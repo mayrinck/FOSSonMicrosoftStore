@@ -7,15 +7,19 @@ As we all know, one of the main problems with Microsoft Store is their lack of a
 So, thinking of that, I decided to convert my MS Developer account into a "Free and Open-Source Software Repository", where we can upload and keep updated some of the open-source apps we think that deserve to be there the same way they are displayed on their official sources... No "Gimp PRO" or stuff like that, just the vanilla software, properly credited and with all licenses, privacy policy and other information directly related to the original developers.
 
 
+# The project is Discontinued
+
+Microsoft Store, since the release of Windows 11, has become a lot more accessible to Open Source Software developers to publish and maintain their software, needing no conversions or whatsoever. So, the need to add them manually through this process is no longer useful. This project will be discontinued with no specific return date. 
+
+
+
+
+
 # How does the software is converted? Is it safe?
 
 The process uses the MSIX Packaging Tool, which is available on Microsoft Store too, It does a 100% unmodified and safe conversion of the software from the installer to become a Microsoft Store compatible package. Every converted software is downloaded from the most secure link available from the creators, ensuring the safety of every application. Also, patch notes and other stuff come from the same source.
 
 Bugs and other issues shouldn't be pointed here, as the conversion don't mess with the source code of the original software. If you have any issues with a software available here, we strongly recommend that you go to the developer's website and try to get some help there.
-
-# The project is Discontinued
-
-Microsoft Store, since the release of Windows 11, has become a lot more accessible to Open Source Software developers to publish and maintain their software, needing no conversions or whatsoever. So, the need to add them manually through this process is no longer useful. This project will be discontinued with no specific return date. 
 
 <!-- # How to contribute:
 
